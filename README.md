@@ -20,7 +20,7 @@ Logging monitoring
 # First analysis prepopulated data: analyse no of tables, fields, Entities, Repositories, Services, Controllers
 
 # DB URL: localhost:8080/h2-console
-# Swagger URL: http://localhost:8080/swagger-ui/index.html
+# Swagger URL: http://localhost:8080/swagger-ui.html
 
 
 #################
