@@ -10,12 +10,12 @@ Spring swagger
 Logging monitoring  
 
 
-MiniProject-1 Insurance:
+# MiniProject-1 Insurance:
 1. Get all Plan categories
 2. Create plan policy
 3. View all policies
 4. Enable/Disable policies
 5. Hard delete policy
 
-DB URL: localhost:8080/h2-console
-Swagger URL: http://localhost:8080/swagger-ui/index.html
+# DB URL: localhost:8080/h2-console
+# Swagger URL: http://localhost:8080/swagger-ui/index.html
