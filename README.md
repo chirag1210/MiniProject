@@ -1,13 +1,13 @@
 # SpringBootLatest
 # Spring Boot 3, JDK 17, latest swagger
 
-#Prerequisite 
-Spring web
-Spring h2db
-Spring JPA
-Spring devtool
-Spring swagger
-Logging monitoring
+#Prerequisite   
+Spring web  
+Spring h2db  
+Spring JPA  
+Spring devtool  
+Spring swagger  
+Logging monitoring  
 
 
 MiniProject-1 Insurance:
