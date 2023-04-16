@@ -1,7 +1,7 @@
 # SpringBootLatest
 # Spring Boot 3, JDK 17, latest swagger
 
-#Prerequisite   
+# Prerequisite   
 Spring web  
 Spring h2db  
 Spring JPA  
